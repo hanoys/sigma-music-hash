@@ -3,7 +3,7 @@ package hash
 import (
 	"crypto/sha256"
 	"encoding/hex"
-	"github.com/hanoys/sigma-music/internal/domain"
+	"github.com/hanoys/sigma-music-core/domain"
 	"time"
 )
 

@@ -1,0 +1,8 @@
+github.com/Rhymond/go-money v1.0.12 h1:pl2YVxR1RljQRve1Uw3TG1CuBub7gTpfrXAdDhq19dw=
+github.com/Rhymond/go-money v1.0.12/go.mod h1:iHvCuIvitxu2JIlAlhF0g9jHqjRSr+rpdOs7Omqlupg=
+github.com/google/uuid v1.6.0 h1:NIvaJDMOsjHA8n1jAhLSgzrAzy1Hgr+hNrb57e+94F0=
+github.com/google/uuid v1.6.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/guregu/null/v5 v5.0.0 h1:PRxjqyOekS11W+w/7Vfz6jgJE/BCwELWtgvOJzddimw=
+github.com/guregu/null/v5 v5.0.0/go.mod h1:SjupzNy+sCPtwQTKWhUCqjhVCO69hpsl2QsZrWHjlwU=
+github.com/hanoys/sigma-music-core v0.0.0-20240527204404-e4255043bd1e h1:oiiKPa29Q9TtMKRp5OgEdwNIG2z9QBzta6ebdujoPng=
+github.com/hanoys/sigma-music-core v0.0.0-20240527204404-e4255043bd1e/go.mod h1:Tu8RhZm7vDW7Ga6M+HlWr+MtP/tMsssYaQNyWpH92YM=
